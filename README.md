@@ -34,7 +34,6 @@ Each generator builds a dictionary by scanning a text file and analyzing word se
 ## 📁 Project Structure
 - book_text_long.txt    <!-- Sample training text file -->
 - README.md    <!-- Project documentation -->
-- comprehensive/    <!-- Java package containing all logic -->
 - TextGenerator.java    <!-- Main class with entry point and base functionality -->
 - DeterministicGenerator.java    <!-- Generator that chooses the most frequent next word -->
 - ProbabilisticGenerator.java    <!-- Generator that returns the top-k probable words -->
