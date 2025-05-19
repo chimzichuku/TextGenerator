@@ -31,7 +31,7 @@ Each generator builds a dictionary by scanning a text file and analyzing word se
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 - book_text_long.txt    <!-- Sample training text file -->
 - README.md    <!-- Project documentation -->
 - TextGenerator.java    <!-- Main class with entry point and base functionality -->
@@ -41,7 +41,7 @@ Each generator builds a dictionary by scanning a text file and analyzing word se
 
 ---
 
-## ▶️ How to Run
+## How to Run
 - locate absolute path of source folder containing the files just downloaded. Then run in terminal or command line: cd <absolute path>
 - compile the necessary files (always include main TextGenerator file and then the required model)
 - run the command line arguments as shown below
