@@ -52,7 +52,7 @@ javac downloadedFolderName//TextGenerator.java downloadedFolderName/SpecifiedMod
 java downloadedFolderName.TextGenerator <downloadedFolderName.inputFile> <seedWord> <howManyWords> <generatorType>
 ```
 
-## Example after locating top folder
+## Example
 ```bash
 cd /Users/chimzichuku/Library/CloudStorage/OneDrive-UniversityofUtah/CS2420/src
 javac comprehensive/TextGenerator.java comprehensive/DeterministicGenerator.java
