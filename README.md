@@ -46,7 +46,6 @@ Each generator builds a dictionary by scanning a text file and analyzing word se
 - compile the necessary files (always include main TextGenerator file and then the required model)
 - run the command line arguments as shown below
 
-Compile all `.java` files:
 ```bash
 cd /absolute/path/to/downloaded-folder
 javac downloadedFolderName//TextGenerator.java downloadedFolderName/SpecifiedModel.java
